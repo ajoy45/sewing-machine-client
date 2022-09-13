@@ -1,0 +1,12 @@
+.card-body:hover>.card_forent{
+    display: none;
+}
+.card-body:hover>.card_back{
+    display: block;
+}
+.card-body{
+    background-color:#0ab179b9;
+}
+.card-body:hover{
+    background-color: #27ce92;
+}

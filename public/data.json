@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Tube Benders",
+        "description":"We’re tube bender experts with 15+ years of innovation",
+        "img":"https://i.ibb.co/J2mV56J/pro-img1.png"
+    },
+    {
+        "id":2,
+        "name":"Band Saws",
+        "description":"sharp blade consisting of a continuous band of toothed me...",
+        "img":"https://i.ibb.co/DtFQdym/pro-img2.png"
+    },
+    {
+        "id":3,
+        "name":"Metal Press",
+        "description":"A press brake bending a sheet of steel. A forming press, ...",
+        "img":"https://i.ibb.co/R402tNx/pro-img3.png"
+    },
+    {
+        "id":4,
+        "name":"Plasma Tables",
+        "description":"We manufacture Plasma Tables and machine these carriages ...",
+        "img":"https://i.ibb.co/mhS5XnN/pro-img-4.png"
+    },
+    {
+        "id":5,
+        "name":"Sheet Metal Brakes",
+        "description":"A brake is a metalworking machine that allows...",
+        "img":"https://i.ibb.co/QQBFTJC/pro-img5.png"
+    },
+    {
+        "id":6,
+        "name":"Metal Drills",
+        "description":"Have you ever wondered what it means when you go to the s...",
+        "img":"https://i.ibb.co/MSt5rYc/pro-img6.png"
+    }
+]
